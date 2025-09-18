@@ -1,3 +1,3 @@
 Site da empresa em que trabalho atualmente.
 
-Realizado alterações, voltado para buscar modernizar o site.
+Site de apresentação da empresa e dos serviços prestados, também disponibilizando contato e links específicos de suporte.
